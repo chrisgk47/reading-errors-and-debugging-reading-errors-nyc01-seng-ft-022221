@@ -1,1 +1,3 @@
-1.to_s + "is the loneliest number"
+phrase = "is the lonliest number"
+  puts "The number one #{phrase}"
+end
